@@ -1,0 +1,12 @@
+INDEX VERSION 1.4+C:\Users\DELL\eclipse-workspace\ColabChat\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2718020685.index
+3347213299.index
+2378147089.index
+3889712694.index
+2238205999.index
+1086910454.index
+3187805055.index
+3889712694.index
+171790263.index
+188576781.index
+3698179862.index
